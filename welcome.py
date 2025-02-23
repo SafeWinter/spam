@@ -1,4 +1,5 @@
 #!/usr/bin/python
+"""Demo module docstring"""
 
 from kitchen import bacon, egg, lobster_thermidor, sausage
 import random
